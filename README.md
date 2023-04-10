@@ -16,4 +16,6 @@ El proyecto consiste en la creación de una base de datos para la empresa El Sal
 
 # Estado de Proyecto
 
+El proyecto está: _En proceso._
+
 # Tecnologias usadas
