@@ -19,3 +19,8 @@ El proyecto consiste en la creación de una base de datos para la empresa El Sal
 El proyecto está: _En proceso._
 
 # Tecnologias usadas
+
+ - [Visual Studio Code - 1.73](https://code.visualstudio.com/Download)
+ - [XAMPP](https://www.apachefriends.org/es/index.html)
+ - [Filezilla](https://filezilla-project.org/)
+ - [Draw.io](https://app.diagrams.net/)
