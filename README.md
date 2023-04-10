@@ -4,7 +4,7 @@ El proyecto consiste en la creación de una base de datos para la empresa El Sal
 
 # Tabla de Contenidos
 
-* [Proyecto BD](#proyecto-Base de Datos)
+* [Proyecto BD](#proyecto-base-de-datos)
 * [Problematica](#problematica)
 * [Instalacion](#instalacion)
 * [Estado del proyecto](#estado-de-proyecto)
